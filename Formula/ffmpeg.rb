@@ -3,7 +3,7 @@ class Ffmpeg < Formula
   homepage "https://ffmpeg.org/"
   url "https://ffmpeg.org/releases/ffmpeg-4.4.4.tar.xz"
   version "4.4.4-with-options" # to distinguish from homebrew-core's ffmpeg
-  sha256 "488c76e57dd9b3bee901f71d5c95eaf1db4a5a31fe46a28654e837144207c270"
+  sha256 "e80b380d595c809060f66f96a5d849511ef4a76a26b76eacf5778b94c3570309"
   license "GPL-2.0-or-later"
   revision 3
   head "https://github.com/FFmpeg/FFmpeg.git", branch: "master"
